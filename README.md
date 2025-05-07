@@ -1,1 +1,1 @@
-Java ile Basit Hesap Makinesi yapımı
+Java ile Basit Hesap Makinesi
